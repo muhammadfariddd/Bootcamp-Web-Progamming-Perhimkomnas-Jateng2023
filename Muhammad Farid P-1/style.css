@@ -1,0 +1,25 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: aqua;
+}
+
+.image {
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.7);
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 7px;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: blueviolet;
+    cursor: pointer;
+}
